@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVE_RF", "EVE_RF.csproj", "{9DB530F8-229C-4226-8E5D-E96B64FA713D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DB530F8-229C-4226-8E5D-E96B64FA713D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB530F8-229C-4226-8E5D-E96B64FA713D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB530F8-229C-4226-8E5D-E96B64FA713D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB530F8-229C-4226-8E5D-E96B64FA713D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62C16FB3-6E3C-4E89-BFE0-86A7ED19CE08}
+	EndGlobalSection
+EndGlobal
